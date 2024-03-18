@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"6d8dc6de-1c92-4164-b0e9-f812ce16904a","feature":"Cart feature","scenario":"02 Customer successfully place order as a guest user","start":1710788588052,"group":28,"content":"","tags":"","end":1710788588058,"className":"passed"},{"id":"1c9d8b1e-26ad-4bba-aeca-29dd75a79e8f","feature":"Cart feature","scenario":"01 Customer add products in his shopping cart","start":1710788587924,"group":27,"content":"","tags":"","end":1710788588046,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":27,"content":"Thread[#27,PoolService-0,5,main]"},{"id":28,"content":"Thread[#28,PoolService-1,5,main]"}]);
+});
